@@ -1,2 +1,2 @@
 # TWU101
-All programming exercises completed for TWU101
+TWU101 Introductory Programming Assignments
